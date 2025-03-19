@@ -1,13 +1,10 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 <div class="container">
-  <h1>🏴‍☠️ fightMMC0lub</h1>
-  <h3>Ethical Hacking | Penetration Testing | Cybersecurity</h3>
+  <h1>📡 Network Security Basics</h1>
+  <h3>🔍 **Coming Soon!** </h3>
 </div>
 
-# 📡 Network Security Basics  
-
-🔍 **Coming Soon!**  
 
 In this article, we will explore the fundamentals of **network security**, including:  
 
