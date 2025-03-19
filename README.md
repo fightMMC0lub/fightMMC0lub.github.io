@@ -1,8 +1,6 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
-<div class="container">
-  <h1>🏴‍☠️ fightMMC0lub</h1>
-  <h3>Ethical Hacking | Penetration Testing | Cybersecurity</h3>
+<div style="background-color:#050505; color:#00ff99; font-family:'Courier New',monospace; text-align:center; padding:20px; border-radius:10px;">
+  <h1 style="text-shadow: 0 0 5px #00ff99, 0 0 15px #004d26;">🏴‍☠️ fightMMC0lub</h1>
+  <p>Ethical Hacking | Penetration Testing | Cybersecurity</p>
 </div>
 
 
