@@ -14,7 +14,7 @@ Welcome to **fightMMC0lub**! This site is about:
 - [🔓 Introduction to Ethical Hacking](posts/posts/intro-ethical-hacking.md) 
 - [📡 Network Scanning with Nmap](posts/posts/network-scanning-nmap.md)  
 - [🛠️ Security Automation with Python](posts/posts/security-automation-python.md)
-- [📚 Cybersecurity Resources](posts/posts/resources.md)
+- [📚 Cybersecurity Resources](posts/posts/posts/resources.md)
 
 ---
 
