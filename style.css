@@ -1,12 +1,13 @@
 /* Global Styles */
 body {
-  background-color: #050505;
-  color: #00ff99;
+  background-color: #0a0f1c; /* Dark Cybersecurity Theme */
+  color: #00ffaa; /* Neon Green for High Contrast */
   font-family: "Courier New", monospace;
   text-align: center;
   margin: 0;
   padding: 0;
   overflow-x: hidden;
+  animation: glitch-bg 5s infinite linear alternate;
 }
 
 /* Background Overlay */
@@ -19,16 +20,19 @@ body::before {
   height: 100%;
   background: url('https://media.giphy.com/media/3o7TKrR3q6aWXgm0BO/giphy.gif') no-repeat center center;
   background-size: cover;
-  opacity: 0.15;
+  opacity: 0.08;
   z-index: -1;
+  filter: blur(2px);
 }
 
 /* Heading Styles */
 h1, h2, h3 {
-  color: #00ff99;
-  text-shadow: 0 0 5px #00ff99, 0 0 15px #004d26;
+  color: #00ffaa;
+  text-shadow: 0 0 8px #00ffaa, 0 0 18px #004d40;
   text-transform: uppercase;
   margin-bottom: 15px;
+  position: relative;
+  animation: text-glow 1.5s infinite alternate;
 }
 
 h1::after {
@@ -41,38 +45,44 @@ h1::after {
   max-width: 900px;
   margin: 40px auto;
   padding: 30px;
-  background: rgba(15, 15, 15, 0.95);
+  background: rgba(20, 25, 40, 0.95);
   border-radius: 15px;
-  box-shadow: 0 0 25px rgba(0, 255, 153, 0.8);
+  box-shadow: 0 0 25px rgba(0, 255, 170, 0.8);
   transition: all 0.3s ease-in-out;
+  border: 2px solid rgba(0, 255, 170, 0.5);
 }
 
 .container:hover {
-  box-shadow: 0 0 30px rgba(0, 255, 153, 1);
+  box-shadow: 0 0 30px rgba(0, 255, 170, 1);
+  transform: scale(1.02);
 }
 
 /* Links */
 a {
-  color: #00ff99;
+  color: #00ffaa;
   text-decoration: none;
   font-weight: bold;
   transition: all 0.3s;
+  position: relative;
 }
 
 a:hover {
-  text-shadow: 0 0 8px #00ff99, 0 0 18px #004d26;
+  text-shadow: 0 0 8px #00ffaa, 0 0 18px #004d40;
   transform: scale(1.05);
+  filter: drop-shadow(0px 0px 10px #00ffaa);
 }
 
 /* Code Blocks */
 pre, code {
-  background: #111;
-  color: #00ff99;
+  background: #121826;
+  color: #00ffaa;
   padding: 12px;
   border-radius: 6px;
   display: block;
   font-size: 14px;
   overflow-x: auto;
+  border: 1px solid #00ffaa;
+  box-shadow: 0px 0px 15px rgba(0, 255, 170, 0.5);
 }
 
 /* Footer */
@@ -87,4 +97,17 @@ footer {
   50% {
     opacity: 0;
   }
+}
+
+/* Glitch Background Animation */
+@keyframes glitch-bg {
+  0% { background-position: 0 0; }
+  50% { background-position: 10px -10px; }
+  100% { background-position: -10px 10px; }
+}
+
+/* Text Glow Animation */
+@keyframes text-glow {
+  0% { text-shadow: 0 0 10px #00ffaa, 0 0 20px #004d40; }
+  100% { text-shadow: 0 0 15px #00ffaa, 0 0 30px #004d40; }
 }
