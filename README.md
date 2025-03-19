@@ -18,6 +18,19 @@ Welcome to **fightMMC0lub**! This site is about:
 
 ---
 
+---
+
+## 📚 Articles  
+
+Check out my latest articles on networking and cybersecurity:
+
+- [📡 Network Security Basics](articles/network-security.md)  
+- [🔐 Ethical Hacking Techniques](articles/ethical-hacking-techniques.md)  
+
+🔗 [View all articles](articles/)
+
+---
+
 ## 📧 Contact Me  
 - [📧 Contact Me](contact.md)  
 
