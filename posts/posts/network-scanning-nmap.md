@@ -1,13 +1,11 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 <div class="container">
-  <h1>🏴‍☠️ fightMMC0lub</h1>
-  <h3>Ethical Hacking | Penetration Testing | Cybersecurity</h3>
+  <h1>📡 Network Scanning with Nmap</h1>
+  <h3>Network scanning is a critical technique in ethical hacking and penetration testing. With **Nmap**, you can discover devices on a network, identify open ports, and assess vulnerabilities. It’s a powerful tool for scanning networks and mapping out security risks</h3>
 </div>
 
-# 📡 Network Scanning with Nmap  
 
-Network scanning is a critical technique in ethical hacking and penetration testing. With **Nmap**, you can discover devices on a network, identify open ports, and assess vulnerabilities. It’s a powerful tool for scanning networks and mapping out security risks.
 
 In this post, we will give a basic overview of Nmap and its key features.  
 
