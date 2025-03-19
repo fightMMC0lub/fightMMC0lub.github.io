@@ -1,0 +1,74 @@
+body {
+  background: #050505;
+  color: #00ff99;
+  font-family: "Courier New", monospace;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('https://media.giphy.com/media/3o7TKrR3q6aWXgm0BO/giphy.gif');
+  background-size: cover;
+  opacity: 0.2;
+  z-index: -1;
+}
+
+h1, h2, h3 {
+  color: #00ff99;
+  text-shadow: 0 0 5px #00ff99, 0 0 15px #004d26;
+  text-transform: uppercase;
+}
+
+h1::after {
+  content: "█";
+  animation: blink 0.8s infinite;
+}
+
+.container {
+  max-width: 850px;
+  margin: auto;
+  padding: 25px;
+  background: rgba(10, 10, 10, 0.9);
+  border-radius: 12px;
+  box-shadow: 0 0 20px #00ff99;
+}
+
+a {
+  color: #00ff99;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+a:hover {
+  text-shadow: 0 0 5px #00ff99, 0 0 15px #004d26;
+}
+
+pre, code {
+  background: #111;
+  color: #00ff99;
+  padding: 10px;
+  border-radius: 5px;
+  display: block;
+  font-size: 14px;
+}
+
+footer {
+  margin-top: 20px;
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
