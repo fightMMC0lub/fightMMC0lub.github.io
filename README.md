@@ -1,8 +1,6 @@
 <!-- HTML embedded with Inline CSS in Markdown -->
-<div style="background-color: #2c3e50; padding: 20px; border-radius: 8px; color: #ecf0f1; font-family: Arial, sans-serif;">
-  <h3 style="font-size: 24px; font-weight: bold; margin-bottom: 15px;">🏴‍☠️ fightMMC0lub</h3>
-  <p style="font-size: 16px; line-height: 1.5; margin-bottom: 15px;">Ethical Hacking | Penetration Testing | Cybersecurity<a
-</div>
+🏴‍☠️ fightMMC0lub</h3>
+  Ethical Hacking | Penetration Testing | Cybersecurity
 
 
 Welcome to **fightMMC0lub**! This site is about:  
