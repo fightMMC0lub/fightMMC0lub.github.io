@@ -1,5 +1,6 @@
+/* Global Styles */
 body {
-  background: #050505;
+  background-color: #050505;
   color: #00ff99;
   font-family: "Courier New", monospace;
   text-align: center;
@@ -8,6 +9,7 @@ body {
   overflow-x: hidden;
 }
 
+/* Background Overlay */
 body::before {
   content: "";
   position: fixed;
@@ -15,58 +17,72 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('https://media.giphy.com/media/3o7TKrR3q6aWXgm0BO/giphy.gif');
+  background: url('https://media.giphy.com/media/3o7TKrR3q6aWXgm0BO/giphy.gif') no-repeat center center;
   background-size: cover;
-  opacity: 0.2;
+  opacity: 0.15;
   z-index: -1;
 }
 
+/* Heading Styles */
 h1, h2, h3 {
   color: #00ff99;
   text-shadow: 0 0 5px #00ff99, 0 0 15px #004d26;
   text-transform: uppercase;
+  margin-bottom: 15px;
 }
 
 h1::after {
   content: "█";
-  animation: blink 0.8s infinite;
+  animation: blink 1s step-end infinite;
 }
 
+/* Content Container */
 .container {
-  max-width: 850px;
-  margin: auto;
-  padding: 25px;
-  background: rgba(10, 10, 10, 0.9);
-  border-radius: 12px;
-  box-shadow: 0 0 20px #00ff99;
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px;
+  background: rgba(15, 15, 15, 0.95);
+  border-radius: 15px;
+  box-shadow: 0 0 25px rgba(0, 255, 153, 0.8);
+  transition: all 0.3s ease-in-out;
 }
 
+.container:hover {
+  box-shadow: 0 0 30px rgba(0, 255, 153, 1);
+}
+
+/* Links */
 a {
   color: #00ff99;
   text-decoration: none;
   font-weight: bold;
-  transition: 0.3s;
+  transition: all 0.3s;
 }
 
 a:hover {
-  text-shadow: 0 0 5px #00ff99, 0 0 15px #004d26;
+  text-shadow: 0 0 8px #00ff99, 0 0 18px #004d26;
+  transform: scale(1.05);
 }
 
+/* Code Blocks */
 pre, code {
   background: #111;
   color: #00ff99;
-  padding: 10px;
-  border-radius: 5px;
+  padding: 12px;
+  border-radius: 6px;
   display: block;
   font-size: 14px;
+  overflow-x: auto;
 }
 
+/* Footer */
 footer {
-  margin-top: 20px;
-  font-size: 12px;
-  opacity: 0.7;
+  margin-top: 30px;
+  font-size: 14px;
+  opacity: 0.8;
 }
 
+/* Blink Animation */
 @keyframes blink {
   50% {
     opacity: 0;
