@@ -37,6 +37,6 @@ Welcome to **fightMMC0lub**! This site is about:
 ---
 
 ## ⚠️ Disclaimer  
-This site is for **educational purposes only**. Do not use hacking techniques on systems without permission.
+All tools and methods presented on this site are for **educational purposes only**. They are intended to enhance learning and raise awareness about cybersecurity. **Do not apply these techniques** on systems without explicit permission from the system owner. Always adhere to legal and ethical guidelines when practicing security-related activities.
 
 
