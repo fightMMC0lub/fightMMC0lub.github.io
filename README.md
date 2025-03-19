@@ -22,12 +22,12 @@ Welcome to **fightMMC0lub**! This site is about:
 
 ---
 
-## 🌐 Visit My Blogger Website  
+<!-- HTML embedded in Markdown -->
 
-Looking to stay updated with the latest in **networking techniques**, **methodologies**, and **industry news**?  
-Head over to my **Blogger** for fresh insights, tutorials, and news in the world of networking!  
-Don't miss out on valuable information to boost your skills.  
-[Visit My Blogger Website](https://the0xtechworld.blogspot.com)
+<div style="background-color: #2c3e50; padding: 20px; border-radius: 8px; color: #ecf0f1; font-family: Arial, sans-serif;">
+  <h3 style="font-size: 24px; font-weight: bold;">Check Out My Latest Networking Tips</h3>
+  <p style="font-size: 16px; line-height: 1.5;">If you are passionate about networking and cybersecurity, you won't want to miss my latest posts! <a href="https://the0xtechworld.blogspot.com" style="color: #3498db; text-decoration: none;">Visit my blog now!</a></p>
+</div>
 
 ---
 
@@ -39,10 +39,4 @@ Don't miss out on valuable information to boost your skills.
 ## ⚠️ Disclaimer  
 This site is for **educational purposes only**. Do not use hacking techniques on systems without permission.
 
-<!-- HTML embedded in Markdown -->
-
-<div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px;">
-  <h3>Check Out My Latest Networking Tips</h3>
-  <p>If you are passionate about networking and cybersecurity, you won't want to miss my latest posts! <a href="https://the0xtechworld.blogspot.com">Visit my blog now!</a></p>
-</div>
 
