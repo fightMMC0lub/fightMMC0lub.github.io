@@ -1,7 +1,5 @@
-<div style="background:#0a0f1c; color:#00ffaa; font-family:'Courier New', monospace; text-align:center; padding:20px; border-radius:10px;">
-  <h1 style="text-shadow:0 0 8px #00ffaa, 0 0 18px #004d40;">🏴‍☠️ fightMMC0lub</h1>
-  <p>Ethical Hacking | Penetration Testing | Cybersecurity</p>
-</div>
+🏴‍☠️ fightMMC0lub</h1>
+  Ethical Hacking | Penetration Testing | Cybersecurity
 
 
 Welcome to **fightMMC0lub**! This site is about:  
