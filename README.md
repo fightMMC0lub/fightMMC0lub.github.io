@@ -17,6 +17,11 @@ Welcome to **fightMMC0lub**! This site is about:
 
 ---
 
+## 📧 Contact Me  
+- [📧 Contact Me](contact.md)  
+
+---
+
 ## 🔗 Follow My Work  
 💻 **GitHub Repository:** [https://github.com/fightMMC0lub](https://github.com/fightMMC0lub)  
 
