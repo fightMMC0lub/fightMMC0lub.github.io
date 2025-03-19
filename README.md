@@ -1,5 +1,7 @@
-# 🏴‍☠️ fightMMC0lub  
-**Ethical Hacking | Penetration Testing | Cybersecurity**  
+<div style="background: linear-gradient(to right, #141e30, #243b55); padding: 20px; border-radius: 10px; text-align: center; color: white;">
+  <h1>🏴‍☠️ fightMMC0lub</h1>
+  <h3>Ethical Hacking | Penetration Testing | Cybersecurity</h3>
+</div>
 
 Welcome to **fightMMC0lub**! This site is about:  
 
