@@ -1,19 +1,19 @@
 body {
-  background: #0a0a0a; /* Deep black background */
-  color: #00ff99; /* Green text for hacker vibes */
-  font-family: "Courier New", monospace; /* Classic terminal-style font */
+  background: #0a0a0a; 
+  color: #00ff99; 
+  font-family: "Courier New", monospace; 
   text-align: center;
   margin: 0;
   padding: 0;
 }
 
 h1, h2, h3 {
-  color: #00ff99; /* Neon green for titles */
-  text-shadow: 0 0 5px #00ff99, 0 0 10px #004d26; /* Glowing text effect */
+  color: #00ff99; 
+  text-shadow: 0 0 5px #00ff99, 0 0 10px #004d26; 
 }
 
 pre, code {
-  background: #111; /* Dark gray background for code */
+  background: #111; 
   color: #00ff99;
   padding: 10px;
   border-radius: 5px;
@@ -34,7 +34,7 @@ a:hover {
   max-width: 800px;
   margin: auto;
   padding: 20px;
-  background: rgba(0, 0, 0, 0.8); /* Slightly transparent black */
+  background: rgba(0, 0, 0, 0.8); 
   border-radius: 10px;
   box-shadow: 0 0 15px #00ff99;
 }
