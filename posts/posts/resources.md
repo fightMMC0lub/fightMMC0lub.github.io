@@ -1,3 +1,10 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<div class="container">
+  <h1>🏴‍☠️ fightMMC0lub</h1>
+  <h3>Ethical Hacking | Penetration Testing | Cybersecurity</h3>
+</div>
+
 # 📚 Cybersecurity Resources
 
 Welcome to the collection of **cybersecurity resources**. This page includes tools, learning materials, and recommended websites to help you improve your skills in cybersecurity and networking.
