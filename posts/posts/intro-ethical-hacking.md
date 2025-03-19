@@ -1,4 +1,4 @@
- 🔓 Introduction to Ethical Hacking
+🔓 Introduction to Ethical Hacking
 
    Ethical hacking is the practice of testing computer systems for security weaknesses. In this guide, we will cover:
 
