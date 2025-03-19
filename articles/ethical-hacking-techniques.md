@@ -1,13 +1,10 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 <div class="container">
-  <h1>🏴‍☠️ fightMMC0lub</h1>
-  <h3>Ethical Hacking | Penetration Testing | Cybersecurity</h3>
+  <h1>🔐 Ethical Hacking Techniques </h1>
+  <h3>🔍 **Coming Soon!** </h3>
 </div>
-
-# 🔐 Ethical Hacking Techniques  
-
-🔍 **Coming Soon!**  
+    
 
 This article will cover various **ethical hacking techniques**, including:  
 
