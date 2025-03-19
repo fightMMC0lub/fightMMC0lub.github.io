@@ -1,3 +1,10 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<div class="container">
+  <h1>🏴‍☠️ fightMMC0lub</h1>
+  <h3>Ethical Hacking | Penetration Testing | Cybersecurity</h3>
+</div>
+
 # 📚 Articles
 
 Welcome to the articles section! Here, you'll find in-depth write-ups on networking, cybersecurity, and hacking methodologies.
