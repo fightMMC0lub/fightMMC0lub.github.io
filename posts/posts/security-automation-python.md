@@ -1,3 +1,10 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<div class="container">
+  <h1>🏴‍☠️ fightMMC0lub</h1>
+  <h3>Ethical Hacking | Penetration Testing | Cybersecurity</h3>
+</div>
+
 # 🛠️ Security Automation with Python  
 
 Python is a great tool for automating security tasks. It helps make repetitive tasks easier and faster. In this post, we’ll look at how Python can help you with basic security tasks like scanning networks or checking for vulnerabilities.  
