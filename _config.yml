@@ -1,1 +1,36 @@
+title: "Cybersecurity Hub"
+author: "Your Name"
+description: "A professional cybersecurity-themed website."
+baseurl: ""
+url: "https://yourusername.github.io"
+
+# Theme (Use Minimal Mistakes)
+remote_theme: mmistakes/minimal-mistakes
+
+# Plugins
+plugins:
+  - jekyll-include-cache
+
+# Custom CSS
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "single"
+      classes: "wide"
+      css: "/assets/css/style.css"
+
+# Navigation (Optional)
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "About"
+    url: "/about/"
+
+# Social Media (Optional)
+social:
+  twitter: your_twitter_handle
+  github: your_github_handle
 
